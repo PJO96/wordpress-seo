@@ -7,7 +7,7 @@ export const singleWords = [ "accordingly", "additionally", "afterward", "afterw
 	"firstly", "following", "formerly", "forthwith", "fourthly", "further", "furthermore", "generally", "hence",
 	"henceforth", "however", "i.e.", "identically", "indeed", "initially", "instead", "last", "lastly", "later", "lest",
 	"likewise", "markedly", "meanwhile", "moreover", "nevertheless", "nonetheless", "nor",  "notwithstanding", "obviously",
-	"occasionally", "otherwise", "overall", "particularly", "presently", "previously", "rather", "regardless", "secondly",
+	"occasionally", "otherwise", "overall", "particularly", "presently", "previously", "primarily", "rather", "regardless", "secondly",
 	"shortly", "significantly", "similarly", "simultaneously", "since", "so", "soon", "specifically", "still", "straightaway",
 	"subsequently", "surely", "surprisingly", "than", "then", "thereafter", "therefore", "thereupon", "thirdly", "though",
 	"thus", "till", "undeniably", "undoubtedly", "unless", "unlike", "unquestionably", "until", "when", "whenever",
